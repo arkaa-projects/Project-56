@@ -1,0 +1,20 @@
+body{
+    background-color: chocolate;
+    text-align: center;
+}
+div{
+    margin-top: 15px;
+}
+.outer{
+    display:flex;
+    justify-content: center;
+}
+.inner{
+    margin-right:25px ;
+    margin-left: 25px;
+    background-color: cyan;
+    width: 40%;
+}
+img{
+    width: 35%;
+}
